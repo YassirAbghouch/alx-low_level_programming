@@ -1,13 +1,11 @@
-#include "main.h"
 /**
- * mul - multiply 2 int
- * @a: first int
- * @b: second int
- * Return: addition of the multiplicattion
+ * mul - multiples a * b and returns the result of that
+ * @a: Integer 1
+ * @b: Integer 2
+ *
+ * Return: a * b (always)
  */
-
 int mul(int a, int b)
 {
 	return (a * b);
 }
-
